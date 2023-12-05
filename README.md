@@ -1,4 +1,4 @@
-## BlogPost App
+## BlogPost App 🌐
 
 This is a simple Node.js blog post application where users can perform CRUD (Create, Read, Update, Delete) operations on blog posts.
 
@@ -17,16 +17,24 @@ This is a simple Node.js blog post application where users can perform CRUD (Cre
   - 📄 README.md
 
 
-## Features
+## Features 🚀
 - **Create:** Add new blog posts.
 - **Read:** View a list of existing blog posts.
 - **Update:** Modify and update existing blog posts.
 - **Delete:** Remove unwanted blog posts.
 
-## API Documentation
+## API Documentation 🤔
 Explore available endpoints in ```api.md```
 
-## Installation
+# Dependencies 📦
+
+These are the main dependencies used in the project:
+- Express.js: [https://expressjs.com/](https://expressjs.com/)
+- EJS: [https://ejs.co/](https://ejs.co/)
+- Axios[https://axios-http.com/](https://axios-http.com/)
+- Body-Parser[https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
+
+## Installation 🛠️
 
 1. Clone the repository:
 
