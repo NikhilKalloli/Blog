@@ -1,1 +1,0 @@
-// The code from here is used to create the API endpoints for the application.
